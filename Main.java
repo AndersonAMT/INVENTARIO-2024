@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.print("Nuevo mensaje");
         System.out.print("PRUEBA DE CAMBIOS");
+        System.out.print("SEGUNDO INTENTO");
          SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run(){
